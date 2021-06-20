@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/emadehsanrad/">
   <img align="left" alt="Emad's Linkedin" width="22px" src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/032cf3ef9c33e0d994784de307aea9b5f07d07d7/linkedin.svg" />
 </a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithemad)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
-<img align="right" alt="GIF" src="https://github.com/CodeWithEmad/CodeWithEmad/blob/master/code.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif" width="400" height="256" />
 
 ```python
 #!/usr/bin/python
