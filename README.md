@@ -1,16 +1,16 @@
-### Hi guys <img src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/master/wave.gif" width="30px">
+### Hi guys <img src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/main/wave.gif" width="30px">
 
 <a href="https://twitter.com/codewithemad">
-  <img align="left" alt="Emad Rad | Twitter" width="22px" src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/master/assets/twitter.svg" />
+  <img align="left" alt="Emad Rad | Twitter" width="22px" src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/032cf3ef9c33e0d994784de307aea9b5f07d07d7/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/emadehsanrad/">
-  <img align="left" alt="Emad's Linkedin" width="22px" src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/master/assets/linkedin.svg" />
+  <img align="left" alt="Emad's Linkedin" width="22px" src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/032cf3ef9c33e0d994784de307aea9b5f07d07d7/linkedin.svg" />
 </a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithemad)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-<img align="right" alt="GIF" src="https://github.com/CodeWithEmad/CodeWithEmad/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/CodeWithEmad/CodeWithEmad/blob/master/code.gif?raw=true" width="400" height="256" />
 
 ```python
 #!/usr/bin/python
