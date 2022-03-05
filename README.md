@@ -28,7 +28,7 @@ me = SoftwareEngineer()
 
 
 ## &#x270d; Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles and tutorials on my website at [codetherapy.ir](codetherapy.ir/) which is in Persian.
+Apart from coding, I also maintain a blog - you can find my articles and tutorials on my website at [codetherapy.ir](http://codetherapy.ir/) which is in Persian.
 
 
 ## 🔧 Technologies & Tools
