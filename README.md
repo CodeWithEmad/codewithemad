@@ -1,5 +1,5 @@
-### Hi guys <img src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/main/wave.gif" width="30px">
-
+### Hi guys
+<img src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/main/wave.gif" width="30px" height="30px">
 <a href="https://twitter.com/codewithemad">
   <img align="left" alt="Emad Rad | Twitter" width="22px" src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/032cf3ef9c33e0d994784de307aea9b5f07d07d7/twitter.svg" />
 </a>
