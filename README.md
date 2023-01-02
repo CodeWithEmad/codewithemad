@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithemad)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif" width="400" height="248" />
 
 ```python
 #!/usr/bin/python
