@@ -2,9 +2,7 @@
 
 Python & Web Dev Expert, Engineering Software with a Splash of Cool, Methodical yet Visionary, Tech-savvy.
 
-- 🔭 &nbsp; I'm working on OpenedX and Tutor.
-- 🔨 &nbsp; Currently maintaining [cookiecutter-tutor-plugin](https://github.com/overhangio/cookiecutter-tutor-plugin).
-- 🌱 &nbsp; Learning Flutter & NextJS.
-- 💬 &nbsp; Talk mostly about web development and Python.
+- 🔭 &nbsp; I'm working on educational softwares like [OpenedX](https://github.com/openedx/) and [Tutor](https://github.com/overhangio/tutor).
+- 🌱 &nbsp; Expanding my knowledge while solidifying what I already understand.
 - 🤙 &nbsp; You can find me on [Linkedin](https://linkedin.com/in/emadehsanrad), [x](https://x.com/codewithemad).
-- ⚡ &nbsp; Fun fact: I :heart: 🎻 and 🐶s.
+- ⚡ &nbsp; Fun fact: I :heart: 🎵 🎻 and 🐶s.
