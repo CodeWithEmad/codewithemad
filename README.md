@@ -1,8 +1,10 @@
-### Hey there, I'm Emad <img src="https://raw.githubusercontent.com/CodeWithEmad/codewithemad/main/icons/wave.gif" width="30px" height="30px">
+### Hey 👋
 
-Python & Web Dev Expert, Engineering Software with a Splash of Cool, Methodical yet Visionary, Tech-savvy.
+I'm Emad, a senior software engineer at [edSPIRIT](https://edspirit.com), where I'm dedicated to making education more accessible for everyone. I'm also a core contributor to the [Open edX Project](https://github.com/openedx), collaborating with a global community to enhance learning experiences.
 
-- 🔭 &nbsp; I'm working on educational softwares like [OpenedX](https://github.com/openedx/) and [Tutor](https://github.com/overhangio/tutor).
-- 🌱 &nbsp; Expanding my knowledge while solidifying what I already understand.
-- 🤙 &nbsp; You can find me on [Linkedin](https://linkedin.com/in/emadehsanrad), [x](https://x.com/codewithemad).
-- ⚡ &nbsp; Fun fact: I :heart: 🎵 🎻 and 🐶s.
+You can explore my work through:
+
+- Python packages on [PyPI](https://pypi.org/user/codewithemad/)
+- Helm charts on [Artifact Hub](https://artifacthub.io/packages/search?user=codewithemad)
+
+If you have any questions about my projects or repositories, reach out to me on [X](https://x.com/codewithemad) or [LinkedIn](https://linkedin.com/in/emadehsanrad).
