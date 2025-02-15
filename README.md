@@ -1,6 +1,7 @@
 ### Hey 👋
 
-I'm Emad, a senior software engineer at [edSPIRIT](https://edspirit.com), where I'm dedicated to making education more accessible for everyone. I'm also a core contributor to the [Open edX Project](https://github.com/openedx), collaborating with a global community to enhance learning experiences.
+I'm Emad, a senior software engineer at [troweb](https://troweb.com), Working on AI solutions for businesses.
+I'm also a core contributor to the [Open edX](https://github.com/openedx) Project, collaborating with a global community to enhance learning experiences.
 
 You can explore my work through:
 
