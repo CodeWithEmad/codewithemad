@@ -1,0 +1,21 @@
+name: Recent Blog Posts
+
+on:
+  schedule:
+    # Runs everyday at 12:00 AM
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog-posts:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://medium.com/feed/@emad.ehsanrad"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          commit_message: "chore: updated recent posts section"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
