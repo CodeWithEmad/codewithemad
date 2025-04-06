@@ -12,7 +12,8 @@ You can explore my work through:
 #### :books: Recent blog posts
 
 <!-- BLOGPOSTS:START -->
- - 💯 [Clean Up Your GitHub Forks](https://medium.com/@emad.ehsanrad/clean-up-your-github-forks-e1865747d41c?source=rss-2d3d97bc8365------2)
- - 🔥 [Painless Pauses: The Lazy DevOps Guide to Kubernetes Maintenance Pages](https://medium.com/@emad.ehsanrad/painless-pauses-the-lazy-devops-guide-to-kubernetes-maintenance-pages-ece9aceaf02b?source=rss-2d3d97bc8365------2)<!-- BLOGPOSTS:END -->
+ - 💯 [Creating an AI Powered Personalized Memory Capsule: A Step-by-Step Guide](https://medium.com/@emad.ehsanrad/creating-an-ai-powered-personalized-memory-capsule-a-step-by-step-guide-3b30983e1910?source=rss-2d3d97bc8365------2)
+ - 🔥 [Clean Up Your GitHub Forks](https://medium.com/@emad.ehsanrad/clean-up-your-github-forks-e1865747d41c?source=rss-2d3d97bc8365------2)
+ - 💯 [Painless Pauses: The Lazy DevOps Guide to Kubernetes Maintenance Pages](https://medium.com/@emad.ehsanrad/painless-pauses-the-lazy-devops-guide-to-kubernetes-maintenance-pages-ece9aceaf02b?source=rss-2d3d97bc8365------2)<!-- BLOGPOSTS:END -->
 
 If you have any questions about my projects or repositories, reach out to me on [X](https://x.com/codewithemad) or [LinkedIn](https://linkedin.com/in/emadehsanrad).
