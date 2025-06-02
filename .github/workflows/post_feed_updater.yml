@@ -2,8 +2,8 @@ name: Recent Blog Posts
 
 on:
   schedule:
-    # Runs everyday at 12:00 AM
-    - cron: "0 0 * * *"
+    # Runs at 00:00, only on Monday
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 jobs:
