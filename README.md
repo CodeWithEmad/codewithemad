@@ -5,7 +5,7 @@ I'm also a core contributor to the [Open edX](https://github.com/openedx) projec
 In my spare time, I'm working on [Iranian GitHub](https://github.com/iranian-github), an organization focused on empowering Iranian developers and the society.
 
 > [!IMPORTANT]
-> Currently based in Iran and stuck in the middle of Iran-Israel conflict, I don't have the stable network connection to review pull requests and issues. Kidnly be patient and I'll get to them as soon as possible.
+> Currently based in Iran and stuck in the middle of Iran-Israel conflict, I don't have the stable network connection to review pull requests and issues. Kindly be patient and I'll get to them as soon as possible.
 
 You can explore my work through:
 
