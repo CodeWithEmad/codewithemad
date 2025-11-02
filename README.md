@@ -1,11 +1,7 @@
 ### Hey 👋
 
-I'm Emad, a senior software engineer at [troweb](https://troweb.com), working on AI solutions for businesses.
-I'm also a core contributor to the [Open edX](https://github.com/openedx) project, collaborating with a global community to enhance learning experiences.
-In my spare time, I'm working on [Iranian GitHub](https://github.com/iranian-github), an organization focused on empowering Iranian developers and the society.
-
-<!-- > [!IMPORTANT]
-> Currently based in Iran and stuck in the middle of Iran-Israel conflict, I don't have the stable network connection to review pull requests and issues. Kindly be patient and I'll get to them as soon as possible. -->
+I'm Emad, a Senior Software Engineer and Technical Lead at [Abstract Technology](https://abstract-technology.de/), working on e-learning and AI solutions for businesses. I'm also a core contributor to the [Open edX](https://github.com/openedx) project, collaborating with a global community to enhance learning experiences.
+In my spare time, I'm working on [Iranian GitHub](https://github.com/iranian-github), an organization focused on empowering Iranian developers and society.
 
 You can explore my work through:
 
