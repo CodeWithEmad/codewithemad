@@ -1,3 +1,5 @@
+![Help Iran](https://raw.githubusercontent.com/iranian-github/StandWithIran/master/banners/banner2.svg)
+
 ### Hey 👋
 
 I'm Emad, a Senior Software Engineer and Technical Lead at [Abstract Technology](https://abstract-technology.de/), working on e-learning and AI solutions for businesses. I'm also a core contributor to the [Open edX](https://github.com/openedx) project, collaborating with a global community to enhance learning experiences.
