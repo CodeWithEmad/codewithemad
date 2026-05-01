@@ -1,4 +1,4 @@
-![Help Iran](https://raw.githubusercontent.com/iranian-github/StandWithIran/master/banners/banner2.svg)
+[![Help Iran](https://raw.githubusercontent.com/iranian-github/StandWithIran/master/banners/banner2.svg)](https://github.com/iranian-github/StandWithIran)
 
 ### Hey 👋
 
